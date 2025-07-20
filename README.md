@@ -1,16 +1,16 @@
-## Hi there 👋
-
-<!--
-**RayneCodder/RayneCodder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello there ✨
+I am a passionate game developer dedicated to creating interactive experiences that connect with people.  
+I focus on combining creativity and technical skills to bring ideas to life.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on Videogames
+- 🌱 I’m currently learning php language
+- 👯 I am looking to collaborate on projects to enhance my programming background.
+- 🤔 I’m looking for help with learning PHP & Dart
+- 💬 Ask me about C# & Unity
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: they / them
+- ⚡ Fun fact: I love coffee and my cats
+  
+Thank you for visiting my profile. I am open to collaborations and new opportunities. :3
